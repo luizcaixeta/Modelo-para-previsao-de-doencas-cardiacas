@@ -23,7 +23,7 @@ Para compreender o comportamento dos dados e ajustar melhor o modelo, foi realiz
 
 1. Clone o repositório utilizando o comando:
    
-```git clone https://github.com/yourusername/Modelo-para-previsao-de-doencas-cardiacas.git```
+```git clone https://github.com/luizcaixeta/Modelo-para-previsao-de-doencas-cardiacas.git```
 
 2. Instale as dependências:
 
